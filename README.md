@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align = "center">
+	<img src="https://cdn.discordapp.com/attachments/835639665247780865/901295640674455612/Soft_Pride_Flag_Rotated.jpg" width="200" height="200">
+	<br>
+	Eejit43
+</h1>
 
-<!--
-**Eejit43/eejit43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![he/him/his](https://img.shields.io/badge/Pronouns:-He/Him/His-blue?style=for-the-badge)](https://img.shields.io)
+	
+[![0-percent-optimized](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![designed-in-etch-a-sketch](https://forthebadge.com/images/badges/designed-in-etch-a-sketch.svg)](https://forthebadge.com)
+[![powered-by-water](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I don't use GitHub too often, but you can usually find me on the [Hypixel SkyBlock Wiki](https://hypixel-skyblock.fandom.com/wiki/Hypixel_SkyBlock_Wiki), and making PRs for the wiki's various repos.
+  
+![Eejit43's github stats](https://github-readme-stats.vercel.app/api?username=Eejit43&count_private=true&show_icons=true&theme=gotham)
+
+</div>
