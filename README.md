@@ -1,5 +1,5 @@
 <h1 align = "center">
-	<img src="https://cdn.discordapp.com/attachments/835639665247780865/901295640674455612/Soft_Pride_Flag_Rotated.jpg" width="200" height="200">
+	<img src="https://i.imgur.com/6ivDyeB.jpeg" width="200" height="200">
 	<br>
 	Eejit43
 </h1>
