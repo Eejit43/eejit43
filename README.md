@@ -14,7 +14,7 @@
 
 ## About
 
-I don't use GitHub too often, but you can usually find me on the [Hypixel SkyBlock Wiki](https://hypixel-skyblock.fandom.com/wiki/Hypixel_SkyBlock_Wiki), and making PRs for the wiki's various repos.
+**Discord:** Eejit#7578
   
 ![Eejit43's github stats](https://github-readme-stats.vercel.app/api?username=Eejit43&count_private=true&show_icons=true&theme=gotham)
 
