@@ -1,5 +1,5 @@
 <h1 align = "center">
-	<img src="https://i.imgur.com/6ivDyeB.jpeg" width="200" height="200">
+	<img src="https://64.media.tumblr.com/f799f45142ce28f458a435b1d5582dae/111e672d150ea8c4-41/s1280x1920/64a4733747c0a1cc423473a15599ba7cd07d698f.png" width="200" height="200">
 	<br>
 	Eejit43
 </h1>
@@ -15,6 +15,10 @@
 ## About
 
 **Discord:** Eejit#7578
+
+I barely know how to code
+
+Profile picture by [moggy-exe on tumblr](https://moggy-exe.tumblr.com/post/621556506357334016/pride-opossums-he-scream-at-his-own-ass)
   
 ![Eejit43's github stats](https://github-readme-stats.vercel.app/api?username=Eejit43&count_private=true&show_icons=true&theme=gotham)
 
