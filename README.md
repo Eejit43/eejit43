@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![he/him/his](https://img.shields.io/badge/Pronouns:-He/Him/His-blue?style=for-the-badge)
+![he/they](https://img.shields.io/badge/Pronouns:-He/They-blue?style=for-the-badge)
 	
 ![0-percent-optimized](https://forthebadge.com/images/badges/0-percent-optimized.svg)
 ![designed-in-etch-a-sketch](https://forthebadge.com/images/badges/designed-in-etch-a-sketch.svg)
