@@ -21,6 +21,7 @@ I barely know how to code
 Profile picture by [moggy-exe on tumblr](https://moggy-exe.tumblr.com/post/621556506357334016/pride-opossums-he-scream-at-his-own-ass)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Eejit43&count_private=true&show_icons=true&theme=noctis_minimus)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eejit43&theme=noctis_minimus)
 
 </div>
