@@ -24,4 +24,6 @@ Profile picture by [moggy-exe on tumblr](https://moggy-exe.tumblr.com/post/62155
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eejit43&count_private=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
+## Currently Listening To
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mbn3mlimr2thy5sv9ux46s1fq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
