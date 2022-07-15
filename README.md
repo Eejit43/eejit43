@@ -14,7 +14,7 @@
 
 ## About
 
-**Discord:** Eejit#7578
+**Discord:** eejit#7578
 
 I barely know how to code
 
