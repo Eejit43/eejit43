@@ -14,7 +14,7 @@
 
 ## About
 
-**Discord:** eejit#7578
+**Discord:** eejit43
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Eejit43&count_private=true&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
