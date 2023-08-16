@@ -1,16 +1,13 @@
 <h1 align = "center">
-	<img src="https://user-images.githubusercontent.com/76887639/175859859-f9666b35-e60e-48a1-9cd4-90223c1c2179.png" width="200" height="200">
-	<br>
-	Eejit43
+    <img src="https://user-images.githubusercontent.com/76887639/175859859-f9666b35-e60e-48a1-9cd4-90223c1c2179.png" width="200" height="200">
+    <br />
+    Eejit43
 </h1>
 
 <div align="center">
 
-[![he/they](https://img.shields.io/badge/Pronouns:-He/They-blue?style=for-the-badge)](https://img.shields.io)
-
-[![0-percent-optimized](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
-[![designed-in-etch-a-sketch](https://forthebadge.com/images/badges/designed-in-etch-a-sketch.svg)](https://forthebadge.com)
-[![powered-by-water](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
+[![designed-in-etch-a-sketch](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/designed-in-etch-a-sketch.svg)](https://forthebadge.com)
+[![powered-by-water](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/powered-by-water.svg)](https://forthebadge.com)
 
 ## About
 
