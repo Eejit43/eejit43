@@ -2,14 +2,14 @@
 
 <img src="https://user-images.githubusercontent.com/76887639/175859859-f9666b35-e60e-48a1-9cd4-90223c1c2179.png" width="200" height="200">
 
-# Eejit43
+# Will Record
 
 ## About
 
 [![Designed in etch-a-sketch](https://forthebadge.com/images/badges/designed-in-etch-a-sketch.svg)](https://forthebadge.com)
 [![Powered by water](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
 
-Hello, I'm Will, known online as "Eejit43" or "Eejit". I am a Wikipedia editor and avid coder. You can contact me via Discord at **eejit43** or you can file an issue if you have a comment about a specific repository.
+Hello! I'm Will, known online as "Eejit43" or "Eejit". I am a Wikipedia editor and avid coder. You can contact me via Discord at **eejit43** or you can file an issue if you have a comment about a specific repository.
 
 ## Statistics
 
