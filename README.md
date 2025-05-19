@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/76887639/175859859-f9666b35-e60e-48a1-9cd4-90223c1c2179.png" width="200" height="200">
-
-# Will Record
-
 ## About
 
 [![Designed in etch-a-sketch](https://forthebadge.com/images/badges/designed-in-etch-a-sketch.svg)](https://forthebadge.com)
