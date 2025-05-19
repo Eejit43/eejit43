@@ -1,5 +1,7 @@
 <div align="center">
 
+## About
+
 Hello! I'm Will, known online as "Eejit43" or "Eejit". I am a Wikipedia editor and avid coder. You can contact me via Discord at **eejit43** or you can file an issue if you have a comment about a specific repository.
 
 ## Statistics
